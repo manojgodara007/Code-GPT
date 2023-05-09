@@ -1,16 +1,5 @@
-# end_gam
+# Code GPT
+### end_gam(code name)
 
-A new Flutter project.
+The Code GPT (A Futter Application)  is designed to generate code for user based on their query. It uses OpenAI’s Codex Model to generate code and explanations in a matter of seconds, making it more efficient and user-friendly. We have discussed the motivation, problem statement, and approach of the application, and I believe it will have a positive impact on the users.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
